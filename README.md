@@ -1,5 +1,5 @@
 # Win7-texture-for-Win10
-# ----------------------------------------------------------------------------
+
 ## Source :
 
 https://github.com/valinet/ExplorerPatcher 
