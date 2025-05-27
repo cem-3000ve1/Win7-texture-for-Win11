@@ -1,4 +1,4 @@
-# Win7-texture-for-Win10
+# Win7-texture-for-Win11
 
 ## Source :
 
