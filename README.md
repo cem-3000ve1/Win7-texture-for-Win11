@@ -7,7 +7,7 @@ https://github.com/valinet/ExplorerPatcher
 https://github.com/Open-Shell/Open-Shell-Menu 
 # 
 ## Créer un point de restauration :    
-Win + Créer un point de restauration?    
+Win + s : Créer un point de restauration    
 Dans protection du système, Créer (en bas)    
 Donnée lui un nom (exemple : Win7Texture) puis Créer    
 
